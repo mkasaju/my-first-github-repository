@@ -1,4 +1,4 @@
 # my-first-github-repository
 Test github reposity
 
-This file is edited. This file modified locally.
+This line was modified manually during conflict resolution.
