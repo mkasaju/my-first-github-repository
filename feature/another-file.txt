@@ -4,3 +4,6 @@ This file has been modified in local repository.
 
 This line was added in feature-2 branch
 
+Another modification in teh feature-2 branch
+
+
